@@ -1,2 +1,2 @@
-module Exercicios {
+module estrutura_repeticao {
 }
